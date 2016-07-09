@@ -12,7 +12,7 @@ I would love to retire it if someone else has a PHP library that does this with 
 
 https://packagist.org/packages/jmbtechnologylimited/osmaths
 
-composer require jmbtechnologylimited/osmaths
+    composer require jmbtechnologylimited/osmaths
 
 ## Use
 
