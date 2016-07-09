@@ -8,6 +8,12 @@ Further more, this is in OSGB36, and you probably want your Lat/Lng in WGS84, wh
 I am not an expert in mapping systems. I cobbled this together from other sources based on my needs.
 I would love to retire it if someone else has a PHP library that does this with a permissive license.
 
+## Install via Composer
+
+https://packagist.org/packages/jmbtechnologylimited/osmaths
+
+composer require jmbtechnologylimited/osmaths
+
 ## Use
 
     $en = new EastingNorthing($inEasting, $inNorthing);
