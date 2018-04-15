@@ -4,7 +4,7 @@
 	"description": "conversations around the coordinate systems used for Ordnance Survey Open Data only",
 	"keywords": [],
 	"homepage": "https://github.com/JMB-Technology-Limited/OSMaths",
-	"license": "BSD",
+	"license": "BSD-3-Clause",
 	"authors": [ ],
 	"require": {
 		"php": ">=5.3.0"
